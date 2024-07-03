@@ -1,2 +1,3 @@
 # Demo
-Author- Allugubelli Vivas Reddy
+Author- Allugubelli Vivas Reddy 
+College-CBIT
